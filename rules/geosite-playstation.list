@@ -1,0 +1,7 @@
+# NAME: geosite-playstation
+# SOURCE: MetaCubeX/meta-rules-dat geosite/playstation
+# TOTAL: 4
+host-suffix, playstation, playstation
+host-suffix, playstation.com, playstation
+host-suffix, playstation.net, playstation
+host-suffix, sonyentertainmentnetwork.com, playstation

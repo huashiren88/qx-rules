@@ -1,0 +1,15 @@
+# NAME: geosite-nintendo@cn
+# SOURCE: MetaCubeX/meta-rules-dat geosite/nintendo@cn
+# TOTAL: 12
+host-suffix, legendofzelda.cn, nintendo@cn
+host-suffix, legendofzelda.com.cn, nintendo@cn
+host-suffix, miitomo.com.cn, nintendo@cn
+host-suffix, nintendolabo.cn, nintendo@cn
+host-suffix, nintendoswitch.cn, nintendo@cn
+host-suffix, nintendoswitch.com.cn, nintendo@cn
+host-suffix, supersmashbros.cn, nintendo@cn
+host-suffix, supersmashbros.com.cn, nintendo@cn
+host-suffix, xn--mts47c3w9b1qr.cn, nintendo@cn
+host-suffix, mariokart.cn, nintendo@cn
+host-suffix, mariokart.com.cn, nintendo@cn
+host-suffix, supermariobros.com.cn, nintendo@cn

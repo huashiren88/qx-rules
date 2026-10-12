@@ -1,0 +1,4 @@
+# NAME: geosite-mytvsuper
+# SOURCE: MetaCubeX/meta-rules-dat geosite/mytvsuper
+# TOTAL: 1
+host-suffix, mytvsuper.com, mytvsuper

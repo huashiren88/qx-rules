@@ -1,0 +1,9 @@
+# NAME: geosite-zhihu
+# SOURCE: MetaCubeX/meta-rules-dat geosite/zhihu
+# TOTAL: 6
+host-suffix, zhihu.com, zhihu
+host-suffix, zhimg.com, zhihu
+host-suffix, laiyagushi.com, zhihu
+host-suffix, vzuu.com, zhihu
+host-suffix, crash2.zhihu.com, zhihu
+host-suffix, zhihu-web-analytics.zhihu.com, zhihu

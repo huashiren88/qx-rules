@@ -1,0 +1,10 @@
+# NAME: geosite-taptap
+# SOURCE: MetaCubeX/meta-rules-dat geosite/taptap
+# TOTAL: 7
+host-suffix, tapapks.com, taptap
+host-suffix, tapimg.com, taptap
+host-suffix, tapimg.net, taptap
+host-suffix, taptap.cn, taptap
+host-suffix, taptap.com, taptap
+host-suffix, taptapdada.com, taptap
+host-suffix, taptap.io, taptap

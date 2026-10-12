@@ -1,0 +1,8 @@
+# NAME: geosite-bahamut
+# SOURCE: MetaCubeX/meta-rules-dat geosite/bahamut
+# TOTAL: 5
+host, gamer2-cds.cdn.hinet.net, bahamut
+host, gamer-cds.cdn.hinet.net, bahamut
+host-suffix, bahamut.akamaized.net, bahamut
+host-suffix, bahamut.com.tw, bahamut
+host-suffix, gamer.com.tw, bahamut

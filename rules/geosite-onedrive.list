@@ -1,0 +1,19 @@
+# NAME: geosite-onedrive
+# SOURCE: MetaCubeX/meta-rules-dat geosite/onedrive
+# TOTAL: 16
+host-suffix, onedrive, onedrive
+host-suffix, onedriveupdater, onedrive
+host-suffix, sharepointonline.com, onedrive
+host-suffix, microsoftpersonalcontent.com, onedrive
+host-suffix, onedrive.com, onedrive
+host-suffix, sharepoint.cn, onedrive
+host-suffix, livefilestore.com, onedrive
+host-suffix, sharepoint.com, onedrive
+host-suffix, 1drv.com, onedrive
+host-suffix, storage.msn.com, onedrive
+host-suffix, spoprod-a.akamaihd.net, onedrive
+host-suffix, storage.live.com, onedrive
+host-suffix, oneclient.sfx.ms, onedrive
+host-suffix, photos.live.com, onedrive
+host-suffix, onedrive.live.com, onedrive
+host-suffix, skydrive.wns.windows.com, onedrive
