@@ -1,6 +1,6 @@
 # NAME: geoip-facebook
 # SOURCE: MetaCubeX/meta-rules-dat geo/geoip/facebook
-# TOTAL: 119
+# TOTAL: 118
 ip-cidr, 31.13.24.0/21, geoip-facebook, no-resolve
 ip-cidr, 31.13.64.0/18, geoip-facebook, no-resolve
 ip-cidr, 45.64.40.0/22, geoip-facebook, no-resolve
@@ -29,7 +29,6 @@ ip-cidr, 102.132.119.0/24, geoip-facebook, no-resolve
 ip-cidr, 102.132.120.0/23, geoip-facebook, no-resolve
 ip-cidr, 102.132.123.0/24, geoip-facebook, no-resolve
 ip-cidr, 102.132.125.0/24, geoip-facebook, no-resolve
-ip-cidr, 102.132.126.0/24, geoip-facebook, no-resolve
 ip-cidr, 102.221.188.0/22, geoip-facebook, no-resolve
 ip-cidr, 103.4.96.0/22, geoip-facebook, no-resolve
 ip-cidr, 129.134.0.0/17, geoip-facebook, no-resolve
