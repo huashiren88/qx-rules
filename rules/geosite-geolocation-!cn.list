@@ -1,6 +1,6 @@
 # NAME: geosite-geolocation-!cn
 # SOURCE: MetaCubeX/meta-rules-dat geosite/geolocation-!cn
-# TOTAL: 27194
+# TOTAL: 27195
 host, 1password.drift.click, geolocation-!cn
 host, 3dns-1.adobe.com, geolocation-!cn
 host, 3dns-2.adobe.com, geolocation-!cn
@@ -828,8 +828,8 @@ host-suffix, aws, geolocation-!cn
 host-suffix, apple, geolocation-!cn
 host-suffix, android, geolocation-!cn
 host-suffix, amazon, geolocation-!cn
-host-suffix, jiaochuanba25.buzz, geolocation-!cn
-host-suffix, tbcollege.org, geolocation-!cn
+host-suffix, jiangweiping.com, geolocation-!cn
+host-suffix, nikeplus.org, geolocation-!cn
 host-suffix, 12diasderegalosdeitunes.pe, geolocation-!cn
 host-suffix, 12joursdecadeauxdeitunes.com, geolocation-!cn
 host-suffix, 12vpn.com, geolocation-!cn
@@ -1246,6 +1246,7 @@ host-suffix, 7mmtv.tv, geolocation-!cn
 host-suffix, 7tb.cc, geolocation-!cn
 host-suffix, 7tv.app, geolocation-!cn
 host-suffix, 7tv.io, geolocation-!cn
+host-suffix, 7x24hrs.com, geolocation-!cn
 host-suffix, 8-d.com, geolocation-!cn
 host-suffix, 8008206616.com, geolocation-!cn
 host-suffix, 8111y.top, geolocation-!cn
@@ -6656,7 +6657,7 @@ host-suffix, coolsexnew.com, geolocation-!cn
 host-suffix, coolstuffinc.com, geolocation-!cn
 host-suffix, coomer.party, geolocation-!cn
 host-suffix, coomer.st, geolocation-!cn
-host-suffix, coomer.su, geolocation-!cn
+host-suffix, jizzle.com, geolocation-!cn
 host-suffix, coova.com, geolocation-!cn
 host-suffix, coova.net, geolocation-!cn
 host-suffix, coova.org, geolocation-!cn
@@ -7408,7 +7409,7 @@ host-suffix, dev-guardianapis.com, geolocation-!cn
 host-suffix, dev-my.com, geolocation-!cn
 host-suffix, dev-my.games, geolocation-!cn
 host-suffix, dev-theguardian.com, geolocation-!cn
-host-suffix, jizzhut.com, geolocation-!cn
+host-suffix, dev.to, geolocation-!cn
 host-suffix, devcon.org, geolocation-!cn
 host-suffix, developer-advisor.com, geolocation-!cn
 host-suffix, yahoo.ch, geolocation-!cn
@@ -13974,8 +13975,8 @@ host-suffix, jgoodies.com, geolocation-!cn
 host-suffix, jhelab.org, geolocation-!cn
 host-suffix, jhxl.org, geolocation-!cn
 host-suffix, jhzyw.xyz, geolocation-!cn
-host-suffix, jiangweiping.com, geolocation-!cn
 host-suffix, 000webhost.com, geolocation-!cn
+host-suffix, jiaochuanba25.buzz, geolocation-!cn
 host-suffix, jiaochuanba26.buzz, geolocation-!cn
 host-suffix, jiaoyou8.com, geolocation-!cn
 host-suffix, jiayoulu.com, geolocation-!cn
@@ -14009,10 +14010,10 @@ host-suffix, jivara.global, geolocation-!cn
 host-suffix, jiyou520.com, geolocation-!cn
 host-suffix, xboxlive.com, geolocation-!cn
 host-suffix, jizzboom.com, geolocation-!cn
-host-suffix, jizzbunker.com, geolocation-!cn
-host-suffix, dev.to, geolocation-!cn
+host-suffix, meitula.net, geolocation-!cn
 host-suffix, 12diasderegalosdeitunes.hn, geolocation-!cn
-host-suffix, video01.org, geolocation-!cn
+host-suffix, coomer.su, geolocation-!cn
+host-suffix, jizzonline.com, geolocation-!cn
 host-suffix, jjgirls.com, geolocation-!cn
 host-suffix, jjsuo.sbs, geolocation-!cn
 host-suffix, jkb.cc, geolocation-!cn
@@ -15662,7 +15663,7 @@ host-suffix, megurineluka.com, geolocation-!cn
 host-suffix, meguso.com, geolocation-!cn
 host-suffix, meijinsen.jp, geolocation-!cn
 host-suffix, meilleurpornos.com, geolocation-!cn
-host-suffix, meitula.net, geolocation-!cn
+host-suffix, jizzbunker.com, geolocation-!cn
 host-suffix, meizhong.blog, geolocation-!cn
 host-suffix, meizhong.report, geolocation-!cn
 host-suffix, melon.com, geolocation-!cn
@@ -17469,7 +17470,7 @@ host-suffix, nikeoutletstore.com, geolocation-!cn
 host-suffix, nikeoutletstores.com, geolocation-!cn
 host-suffix, nikepioneer.com, geolocation-!cn
 host-suffix, nikeplus.com, geolocation-!cn
-host-suffix, nikeplus.org, geolocation-!cn
+host-suffix, jizzhut.com, geolocation-!cn
 host-suffix, nikepress.com, geolocation-!cn
 host-suffix, nikeprice.com, geolocation-!cn
 host-suffix, nikeproduct.com, geolocation-!cn
@@ -22653,7 +22654,7 @@ host-suffix, tb-esim.ru, geolocation-!cn
 host-suffix, tb.pro, geolocation-!cn
 host-suffix, tbank-online.com, geolocation-!cn
 host-suffix, tbank.ru, geolocation-!cn
-host-suffix, jizzle.com, geolocation-!cn
+host-suffix, tbcollege.org, geolocation-!cn
 host-suffix, tbib.org, geolocation-!cn
 host-suffix, vrv.co, geolocation-!cn
 host-suffix, tbsec.org, geolocation-!cn
@@ -24359,7 +24360,7 @@ host-suffix, video-jav.net, geolocation-!cn
 host-suffix, video-one.com, geolocation-!cn
 host-suffix, volvogroup.be, geolocation-!cn
 host-suffix, volvodefense.com, geolocation-!cn
-host-suffix, jizzonline.com, geolocation-!cn
+host-suffix, video01.org, geolocation-!cn
 host-suffix, videobam.com, geolocation-!cn
 host-suffix, videobreakdown.com, geolocation-!cn
 host-suffix, videochampion.com, geolocation-!cn
