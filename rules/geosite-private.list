@@ -1,6 +1,6 @@
 # NAME: geosite-private
 # SOURCE: MetaCubeX/meta-rules-dat geosite/private
-# TOTAL: 130
+# TOTAL: 132
 host, instant.arubanetworks.com, private
 host, setmeup.arubanetworks.com, private
 host, asusrouter.com, private
@@ -9,6 +9,8 @@ host, www.asusrouter.com, private
 host, oasisauth.h3c.com, private
 host, routerlogin.com, private
 host, www.routerlogin.com, private
+host, localhost.weixin.qq.com, private
+host, localhost.work.weixin.qq.com, private
 host, tplogin.cn, private
 host, miwifi.com, private
 host, www.miwifi.com, private
