@@ -20,12 +20,12 @@ host, lv.queniujq.cn, category-games@cn
 host, xz.pphimalayanrt.com, category-games@cn
 host-suffix, steamchina.com, category-games@cn
 host-suffix, gstore.val.manlaxy.com, category-games@cn
-host-suffix, bluearchive-cn.com, category-games@cn
-host, gog.qtlglb.com, category-games@cn
 host-suffix, xboxlive.cn, category-games@cn
 host-suffix, leagueoflegends.cn, category-games@cn
 host-suffix, lpl.com.cn, category-games@cn
+host, gog.qtlglb.com, category-games@cn
 host-suffix, yostar.cn, category-games@cn
+host-suffix, bluearchive-cn.com, category-games@cn
 host-suffix, legendofzelda.cn, category-games@cn
 host-suffix, legendofzelda.com.cn, category-games@cn
 host-suffix, miitomo.com.cn, category-games@cn
