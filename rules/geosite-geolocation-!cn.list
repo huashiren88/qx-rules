@@ -1,6 +1,6 @@
 # NAME: geosite-geolocation-!cn
 # SOURCE: MetaCubeX/meta-rules-dat geosite/geolocation-!cn
-# TOTAL: 27213
+# TOTAL: 27218
 host, 1password.drift.click, geolocation-!cn
 host, 3dns-1.adobe.com, geolocation-!cn
 host, 3dns-2.adobe.com, geolocation-!cn
@@ -273,6 +273,8 @@ host, impala-media-production.s3.amazonaws.com, geolocation-!cn
 host, imperial.insendi.com, geolocation-!cn
 host, incoming-telemetry.thunderbird.net, geolocation-!cn
 host, incoming.telemetry.mozilla.org, geolocation-!cn
+host, kp-config-smart-tv.akamaized.net, geolocation-!cn
+host, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com, geolocation-!cn
 host, lastfm-img.freetls.fastly.net, geolocation-!cn
 host, lastfm.freetls.fastly.net, geolocation-!cn
 host, lazer.ppy.sh, geolocation-!cn
@@ -830,8 +832,8 @@ host-suffix, aws, geolocation-!cn
 host-suffix, apple, geolocation-!cn
 host-suffix, android, geolocation-!cn
 host-suffix, amazon, geolocation-!cn
-host-suffix, jiangweiping.com, geolocation-!cn
-host-suffix, xxxvirtualworld.com, geolocation-!cn
+host-suffix, jiaochuanba26.buzz, geolocation-!cn
+host-suffix, jm98.cc, geolocation-!cn
 host-suffix, 12diasderegalosdeitunes.pe, geolocation-!cn
 host-suffix, 12joursdecadeauxdeitunes.com, geolocation-!cn
 host-suffix, 12vpn.com, geolocation-!cn
@@ -4522,13 +4524,13 @@ host-suffix, youtube.la, geolocation-!cn
 host-suffix, youtube.kz, geolocation-!cn
 host-suffix, youtube.kr, geolocation-!cn
 host-suffix, blog.jp, geolocation-!cn
+host-suffix, jjgirls.com, geolocation-!cn
 host-suffix, youtube.jp, geolocation-!cn
 host-suffix, youtube.jo, geolocation-!cn
 host-suffix, youtube.it, geolocation-!cn
 host-suffix, youtube.is, geolocation-!cn
 host-suffix, youtube.iq, geolocation-!cn
 host-suffix, youtube.in, geolocation-!cn
-host-suffix, youtube.ie, geolocation-!cn
 host-suffix, blogblog.com, geolocation-!cn
 host-suffix, blogcatalog.com, geolocation-!cn
 host-suffix, blogcity.me, geolocation-!cn
@@ -4551,14 +4553,15 @@ host-suffix, blogspot.cat, geolocation-!cn
 host-suffix, blogspot.cf, geolocation-!cn
 host-suffix, blogspot.ch, geolocation-!cn
 host-suffix, blogspot.cl, geolocation-!cn
+host-suffix, youtube.ie, geolocation-!cn
 host-suffix, youtube.hu, geolocation-!cn
 host-suffix, youtube.hr, geolocation-!cn
 host-suffix, youtube.hk, geolocation-!cn
 host-suffix, youtube.gt, geolocation-!cn
 host-suffix, youtube.gr, geolocation-!cn
 host-suffix, youtube.ge, geolocation-!cn
-host-suffix, youtube.fr, geolocation-!cn
 host-suffix, blogspot.com, geolocation-!cn
+host-suffix, youtube.fr, geolocation-!cn
 host-suffix, youtube.fi, geolocation-!cn
 host-suffix, youtube.es, geolocation-!cn
 host-suffix, youtube.ee, geolocation-!cn
@@ -4571,7 +4574,6 @@ host-suffix, youtube.co, geolocation-!cn
 host-suffix, youtube.cl, geolocation-!cn
 host-suffix, youtube.ch, geolocation-!cn
 host-suffix, youtube.cat, geolocation-!cn
-host-suffix, youtube.ca, geolocation-!cn
 host-suffix, blogspot.cv, geolocation-!cn
 host-suffix, blogspot.cz, geolocation-!cn
 host-suffix, blogspot.de, geolocation-!cn
@@ -4616,11 +4618,11 @@ host-suffix, blogspot.vn, geolocation-!cn
 host-suffix, blogtd.org, geolocation-!cn
 host-suffix, blogterest.net, geolocation-!cn
 host-suffix, bloodshed.net, geolocation-!cn
+host-suffix, youtube.ca, geolocation-!cn
 host-suffix, youtube.by, geolocation-!cn
 host-suffix, youtube.bo, geolocation-!cn
-host-suffix, youtube.bh, geolocation-!cn
 host-suffix, bloomberg.com, geolocation-!cn
-host-suffix, youtube.bg, geolocation-!cn
+host-suffix, youtube.bh, geolocation-!cn
 host-suffix, bloomberg.de, geolocation-!cn
 host-suffix, bloomberg.fm, geolocation-!cn
 host-suffix, bloomberg.tv, geolocation-!cn
@@ -4688,7 +4690,7 @@ host-suffix, bmi.ir, geolocation-!cn
 host-suffix, bmia.org, geolocation-!cn
 host-suffix, bmj.com, geolocation-!cn
 host-suffix, bml.info, geolocation-!cn
-host-suffix, youtube.be, geolocation-!cn
+host-suffix, youtube.bg, geolocation-!cn
 host-suffix, bmw-abudhabi.com, geolocation-!cn
 host-suffix, bmw-adventskalender.com, geolocation-!cn
 host-suffix, bmw-albania.com, geolocation-!cn
@@ -4711,16 +4713,16 @@ host-suffix, bmw-connecteddrive.be, geolocation-!cn
 host-suffix, bmw-connecteddrive.bg, geolocation-!cn
 host-suffix, bmw-connecteddrive.ca, geolocation-!cn
 host-suffix, bmw-connecteddrive.ch, geolocation-!cn
+host-suffix, youtube.be, geolocation-!cn
 host-suffix, youtube.ba, geolocation-!cn
 host-suffix, youtube.az, geolocation-!cn
-host-suffix, youtube.at, geolocation-!cn
 host-suffix, bmw-connecteddrive.com, geolocation-!cn
+host-suffix, youtube.at, geolocation-!cn
 host-suffix, youtube.am, geolocation-!cn
 host-suffix, youtube.al, geolocation-!cn
 host-suffix, youtube.ae, geolocation-!cn
 host-suffix, youtube-nocookie.com, geolocation-!cn
 host-suffix, 02weqj32.com, geolocation-!cn
-host-suffix, youtu.be, geolocation-!cn
 host-suffix, bmw-connecteddrive.cz, geolocation-!cn
 host-suffix, bmw-connecteddrive.de, geolocation-!cn
 host-suffix, bmw-connecteddrive.dk, geolocation-!cn
@@ -4752,7 +4754,7 @@ host-suffix, bmw-connecteddrive.sk, geolocation-!cn
 host-suffix, bmw-connecteddrive.tw, geolocation-!cn
 host-suffix, bmw-corporate-sales.com, geolocation-!cn
 host-suffix, bmw-diplomatic-sales.com, geolocation-!cn
-host-suffix, youtrannytube.com, geolocation-!cn
+host-suffix, youtu.be, geolocation-!cn
 host-suffix, bmw-drivingexperience.com, geolocation-!cn
 host-suffix, bmw-dubai.com, geolocation-!cn
 host-suffix, bmw-eg.com, geolocation-!cn
@@ -4797,13 +4799,14 @@ host-suffix, bmw-motorrad.ca, geolocation-!cn
 host-suffix, bmw-motorrad.ch, geolocation-!cn
 host-suffix, bmw-motorrad.cl, geolocation-!cn
 host-suffix, bmw-motorrad.co, geolocation-!cn
+host-suffix, youtrannytube.com, geolocation-!cn
 host-suffix, youtrack.cloud, geolocation-!cn
 host-suffix, youskbe.com, geolocation-!cn
 host-suffix, yousendit.com, geolocation-!cn
 host-suffix, yourxxxvideos.pro, geolocation-!cn
 host-suffix, yourwifemymeat.com, geolocation-!cn
-host-suffix, yourvserver.net, geolocation-!cn
 host-suffix, bmw-motorrad.com, geolocation-!cn
+host-suffix, yourvserver.net, geolocation-!cn
 host-suffix, yourvoyeurvideos.com, geolocation-!cn
 host-suffix, yourupskirt.com, geolocation-!cn
 host-suffix, yourporngod.com, geolocation-!cn
@@ -4813,7 +4816,6 @@ host-suffix, yourpelvicexam.com, geolocation-!cn
 host-suffix, yourmonsterbeats.com, geolocation-!cn
 host-suffix, yourmomsgotbigtits.com, geolocation-!cn
 host-suffix, yourmomlovesanal.com, geolocation-!cn
-host-suffix, yourlust.com, geolocation-!cn
 host-suffix, bmw-motorrad.cr, geolocation-!cn
 host-suffix, bmw-motorrad.cz, geolocation-!cn
 host-suffix, bmw-motorrad.de, geolocation-!cn
@@ -4857,7 +4859,7 @@ host-suffix, bmw-oman.com, geolocation-!cn
 host-suffix, bmw-ottawa.ca, geolocation-!cn
 host-suffix, bmw-pakistan.com, geolocation-!cn
 host-suffix, bmw-plant-munich.com, geolocation-!cn
-host-suffix, yourlisten.com, geolocation-!cn
+host-suffix, yourlust.com, geolocation-!cn
 host-suffix, bmw-powertrain.com, geolocation-!cn
 host-suffix, bmw-product-highlights.com, geolocation-!cn
 host-suffix, bmw-qatar.com, geolocation-!cn
@@ -4898,6 +4900,7 @@ host-suffix, bmw.ca, geolocation-!cn
 host-suffix, bmw.cc, geolocation-!cn
 host-suffix, bmw.ch, geolocation-!cn
 host-suffix, bmw.cl, geolocation-!cn
+host-suffix, yourlisten.com, geolocation-!cn
 host-suffix, yourgynexam.com, geolocation-!cn
 host-suffix, yourfreeporn.tv, geolocation-!cn
 host-suffix, yourflashporn.com, geolocation-!cn
@@ -4908,8 +4911,8 @@ host-suffix, yourdirtymind.com, geolocation-!cn
 host-suffix, yourdailypornvideos.ws, geolocation-!cn
 host-suffix, yourbrain.com, geolocation-!cn
 host-suffix, yourassbig.com, geolocation-!cn
-host-suffix, youramateurporn.com, geolocation-!cn
 host-suffix, bmw.com, geolocation-!cn
+host-suffix, youramateurporn.com, geolocation-!cn
 host-suffix, your-storageshare.de, geolocation-!cn
 host-suffix, your-storagebox.de, geolocation-!cn
 host-suffix, your-server.de, geolocation-!cn
@@ -4939,7 +4942,6 @@ host-suffix, younger19.com, geolocation-!cn
 host-suffix, youngamateursporn.com, geolocation-!cn
 host-suffix, young-xxx.net, geolocation-!cn
 host-suffix, young-webcam.net, geolocation-!cn
-host-suffix, young-amateur-movies.com, geolocation-!cn
 host-suffix, bmw.cw, geolocation-!cn
 host-suffix, bmw.cz, geolocation-!cn
 host-suffix, bmw.de, geolocation-!cn
@@ -5045,10 +5047,10 @@ host-suffix, bmwmc.net, geolocation-!cn
 host-suffix, bmwmontreal.ca, geolocation-!cn
 host-suffix, bmwmotorcycles.com, geolocation-!cn
 host-suffix, bmwmotorcycleusa.com, geolocation-!cn
+host-suffix, young-amateur-movies.com, geolocation-!cn
 host-suffix, youmind.site, geolocation-!cn
 host-suffix, youmind.com, geolocation-!cn
 host-suffix, youmind.ai, geolocation-!cn
-host-suffix, youmaker.com, geolocation-!cn
 host-suffix, bmwmotorradhk.com, geolocation-!cn
 host-suffix, bmwmotorshowblog.com, geolocation-!cn
 host-suffix, bmwmotorsport.com, geolocation-!cn
@@ -5090,7 +5092,7 @@ host-suffix, bnappweb.black, geolocation-!cn
 host-suffix, bnbchain.org, geolocation-!cn
 host-suffix, bnbstatic.com, geolocation-!cn
 host-suffix, bnef.com, geolocation-!cn
-host-suffix, youlucky.com, geolocation-!cn
+host-suffix, youmaker.com, geolocation-!cn
 host-suffix, bnn.co, geolocation-!cn
 host-suffix, bnrmetal.com, geolocation-!cn
 host-suffix, bntrace.com, geolocation-!cn
@@ -5105,10 +5107,10 @@ host-suffix, boc.ru, geolocation-!cn
 host-suffix, bocici.buzz, geolocation-!cn
 host-suffix, bod.asia, geolocation-!cn
 host-suffix, bodgirls.com, geolocation-!cn
-host-suffix, youla.ru, geolocation-!cn
+host-suffix, youlucky.com, geolocation-!cn
 host-suffix, bodyfluids-jav.com, geolocation-!cn
 host-suffix, bohemia.net, geolocation-!cn
-host-suffix, youla.io, geolocation-!cn
+host-suffix, youla.ru, geolocation-!cn
 host-suffix, bokep.net, geolocation-!cn
 host-suffix, bokepseks.org, geolocation-!cn
 host-suffix, bokepvidz.com, geolocation-!cn
@@ -5128,7 +5130,7 @@ host-suffix, boobstagram.com, geolocation-!cn
 host-suffix, boodigo.com, geolocation-!cn
 host-suffix, boodigogo.com, geolocation-!cn
 host-suffix, book-catalog.ru, geolocation-!cn
-host-suffix, jizzhut.com, geolocation-!cn
+host-suffix, youla.io, geolocation-!cn
 host-suffix, book18.org, geolocation-!cn
 host-suffix, book1917.live, geolocation-!cn
 host-suffix, book4you.org, geolocation-!cn
@@ -8040,7 +8042,7 @@ host-suffix, duckduckco.com, geolocation-!cn
 host-suffix, duckduckco.de, geolocation-!cn
 host-suffix, duckduckgo.ca, geolocation-!cn
 host-suffix, duckduckgo.co, geolocation-!cn
-host-suffix, jizzle.com, geolocation-!cn
+host-suffix, xxxvirtualworld.com, geolocation-!cn
 host-suffix, duckduckgo.com, geolocation-!cn
 host-suffix, xxxvidso.com, geolocation-!cn
 host-suffix, xxxvidos.vip, geolocation-!cn
@@ -8690,7 +8692,7 @@ host-suffix, xxxfiles.com, geolocation-!cn
 host-suffix, xxxfile.org, geolocation-!cn
 host-suffix, epochtimes.com, geolocation-!cn
 host-suffix, xxxengine.net, geolocation-!cn
-host-suffix, xxxdinotube.com, geolocation-!cn
+host-suffix, jizzle.com, geolocation-!cn
 host-suffix, xxxdesi.cc, geolocation-!cn
 host-suffix, xxxdan.com, geolocation-!cn
 host-suffix, xxxcomics.org, geolocation-!cn
@@ -13985,9 +13987,9 @@ host-suffix, jgoodies.com, geolocation-!cn
 host-suffix, jhelab.org, geolocation-!cn
 host-suffix, jhxl.org, geolocation-!cn
 host-suffix, jhzyw.xyz, geolocation-!cn
-host-suffix, 000webhost.com, geolocation-!cn
+host-suffix, jiangweiping.com, geolocation-!cn
 host-suffix, jiaochuanba25.buzz, geolocation-!cn
-host-suffix, jiaochuanba26.buzz, geolocation-!cn
+host-suffix, 000webhost.com, geolocation-!cn
 host-suffix, jiaoyou8.com, geolocation-!cn
 host-suffix, jiayoulu.com, geolocation-!cn
 host-suffix, jibemobile.com, geolocation-!cn
@@ -14020,11 +14022,11 @@ host-suffix, jivara.global, geolocation-!cn
 host-suffix, jiyou520.com, geolocation-!cn
 host-suffix, xboxone.com, geolocation-!cn
 host-suffix, jizzboom.com, geolocation-!cn
-host-suffix, openspec.dev, geolocation-!cn
-host-suffix, xboxone.co, geolocation-!cn
+host-suffix, jizzbunker.com, geolocation-!cn
+host-suffix, jizzhut.com, geolocation-!cn
+host-suffix, xxxdinotube.com, geolocation-!cn
 host-suffix, 12diasderegalosdeitunes.hn, geolocation-!cn
-host-suffix, jizzonline.com, geolocation-!cn
-host-suffix, jjgirls.com, geolocation-!cn
+host-suffix, xboxone.co, geolocation-!cn
 host-suffix, jjsuo.sbs, geolocation-!cn
 host-suffix, jkb.cc, geolocation-!cn
 host-suffix, jkbeats.com, geolocation-!cn
@@ -14041,7 +14043,7 @@ host-suffix, jm18c-bbm.net, geolocation-!cn
 host-suffix, jm18c-uoi.net, geolocation-!cn
 host-suffix, jm365.work, geolocation-!cn
 host-suffix, jm365.xyz, geolocation-!cn
-host-suffix, jm98.cc, geolocation-!cn
+host-suffix, jizzonline.com, geolocation-!cn
 host-suffix, xboxlive.com, geolocation-!cn
 host-suffix, jmapibranch1.cc, geolocation-!cn
 host-suffix, jmapibranch2.cc, geolocation-!cn
@@ -15221,6 +15223,7 @@ host-suffix, magentomobile.com, geolocation-!cn
 host-suffix, magestic.com, geolocation-!cn
 host-suffix, magicalmirai.com, geolocation-!cn
 host-suffix, magicmovies.com, geolocation-!cn
+host-suffix, magnific.com, geolocation-!cn
 host-suffix, mahajantech.com, geolocation-!cn
 host-suffix, mahjongsoul.com, geolocation-!cn
 host-suffix, maidonanews.jp, geolocation-!cn
@@ -16691,6 +16694,7 @@ host-suffix, mt.lv, geolocation-!cn
 host-suffix, mt0011.site, geolocation-!cn
 host-suffix, mtao.fun, geolocation-!cn
 host-suffix, mthruf.com, geolocation-!cn
+host-suffix, mts-link.ru, geolocation-!cn
 host-suffix, mts-ws.net, geolocation-!cn
 host-suffix, mts.ru, geolocation-!cn
 host-suffix, mtsbank.ru, geolocation-!cn
@@ -18240,7 +18244,7 @@ host-suffix, opensea.io, geolocation-!cn
 host-suffix, opensource.guide, geolocation-!cn
 host-suffix, opensourceinsight.dev, geolocation-!cn
 host-suffix, opensourceinsights.dev, geolocation-!cn
-host-suffix, jizzbunker.com, geolocation-!cn
+host-suffix, openspec.dev, geolocation-!cn
 host-suffix, openssl.org, geolocation-!cn
 host-suffix, openstreetmap.com, geolocation-!cn
 host-suffix, openstreetmap.net, geolocation-!cn
@@ -19537,6 +19541,7 @@ host-suffix, postgresql.org, geolocation-!cn
 host-suffix, postimages.org, geolocation-!cn
 host-suffix, postimg.cc, geolocation-!cn
 host-suffix, postini.com, geolocation-!cn
+host-suffix, postman.com, geolocation-!cn
 host-suffix, wemigrate.org, geolocation-!cn
 host-suffix, posty.kr, geolocation-!cn
 host-suffix, postyourgirls.ws, geolocation-!cn
@@ -25801,7 +25806,7 @@ host-suffix, joyobank.co.jp, geolocation-!cn
 host-suffix, jornaldacidadeonline.com.br, geolocation-!cn
 host-suffix, jobmarket.com.hk, geolocation-!cn
 host-suffix, jma.go.jp, geolocation-!cn
-host-suffix, book.com.tw, geolocation-!cn
+host-suffix, blog.martinoei.com, geolocation-!cn
 host-suffix, jiyu-kobo.co.jp, geolocation-!cn
 host-suffix, jiuse.com.co, geolocation-!cn
 host-suffix, jibunbank.co.jp, geolocation-!cn
@@ -26709,6 +26714,7 @@ host-suffix, bossagency.co.uk, geolocation-!cn
 host-suffix, bookwalker.com.tw, geolocation-!cn
 host-suffix, booktopia.com.au, geolocation-!cn
 host-suffix, books.com.tw, geolocation-!cn
+host-suffix, book.com.tw, geolocation-!cn
 host-suffix, boj.or.jp, geolocation-!cn
 host-suffix, bodyandsoul.com.au, geolocation-!cn
 host-suffix, bnext.com.tw, geolocation-!cn
@@ -26765,8 +26771,8 @@ host-suffix, bmw-motorrad.com.my, geolocation-!cn
 host-suffix, bmw-motorrad.com.mx, geolocation-!cn
 host-suffix, bmw-motorrad.com.hr, geolocation-!cn
 host-suffix, bmw-motorrad.com.do, geolocation-!cn
-host-suffix, bmw-motorrad.com.br, geolocation-!cn
 host-suffix, yourtv.com.au, geolocation-!cn
+host-suffix, bmw-motorrad.com.br, geolocation-!cn
 host-suffix, bmw-motorrad.com.au, geolocation-!cn
 host-suffix, bmw-motorrad.com.ar, geolocation-!cn
 host-suffix, bmw-motorrad.co.za, geolocation-!cn
@@ -26794,7 +26800,6 @@ host-suffix, blogspot.com.uy, geolocation-!cn
 host-suffix, blogspot.com.tr, geolocation-!cn
 host-suffix, blogspot.com.ng, geolocation-!cn
 host-suffix, blogspot.com.mt, geolocation-!cn
-host-suffix, blogspot.com.es, geolocation-!cn
 host-suffix, youtube.co.ae, geolocation-!cn
 host-suffix, youtube.co.at, geolocation-!cn
 host-suffix, youtube.co.cr, geolocation-!cn
@@ -26814,7 +26819,7 @@ host-suffix, youtube.co.uk, geolocation-!cn
 host-suffix, youtube.co.ve, geolocation-!cn
 host-suffix, youtube.co.za, geolocation-!cn
 host-suffix, youtube.co.zw, geolocation-!cn
-host-suffix, blogspot.com.eg, geolocation-!cn
+host-suffix, blogspot.com.es, geolocation-!cn
 host-suffix, youtube.com.ar, geolocation-!cn
 host-suffix, youtube.com.au, geolocation-!cn
 host-suffix, youtube.com.az, geolocation-!cn
@@ -26865,6 +26870,7 @@ host-suffix, youtube.com.tw, geolocation-!cn
 host-suffix, youtube.com.ua, geolocation-!cn
 host-suffix, youtube.com.uy, geolocation-!cn
 host-suffix, youtube.com.ve, geolocation-!cn
+host-suffix, blogspot.com.eg, geolocation-!cn
 host-suffix, blogspot.com.ee, geolocation-!cn
 host-suffix, blogspot.com.cy, geolocation-!cn
 host-suffix, blogspot.com.co, geolocation-!cn
@@ -26885,7 +26891,6 @@ host-suffix, blog.reimu.net, geolocation-!cn
 host-suffix, blog.ranxiang.com, geolocation-!cn
 host-suffix, blog.pentalogic.net, geolocation-!cn
 host-suffix, blog.pathtosharepoint.com, geolocation-!cn
-host-suffix, blog.martinoei.com, geolocation-!cn
 host-suffix, blog.jackjia.com, geolocation-!cn
 host-suffix, blog.fuckgfw233.org, geolocation-!cn
 host-suffix, blog.fizzik.com, geolocation-!cn
