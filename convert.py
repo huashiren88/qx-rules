@@ -8,7 +8,7 @@ BASE = "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta"
 # 与 Nikki 配置里用到的规则集一一对应
 GEOSITE = [
     "private", "google-gemini", "category-ai-!cn", "telegram", "youtube", "netflix",
-    "apple@cn", "apple", "twitter", "instagram", "facebook", "tiktok", "disney",
+    "apple-intelligence", "apple@cn", "apple", "twitter", "instagram", "facebook", "tiktok", "disney",
     "spotify", "amazon", "paypal", "github", "category-cryptocurrency", "bilibili",
     "linkedin", "onedrive", "xbox", "google-scholar", "category-scholar-!cn",
     "microsoft", "nvidia", "google", "fastly", "duolingo", "steam@cn", "steam",
