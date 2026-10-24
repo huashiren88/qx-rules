@@ -1,0 +1,8 @@
+# NAME: geosite-playstation
+# SOURCE: MetaCubeX/meta-rules-dat geosite/playstation
+# TOTAL: 5
+DOMAIN-SUFFIX,playstation
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com

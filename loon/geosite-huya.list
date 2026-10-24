@@ -1,0 +1,5 @@
+# NAME: geosite-huya
+# SOURCE: MetaCubeX/meta-rules-dat geosite/huya
+# TOTAL: 2
+DOMAIN-SUFFIX,huya.com
+DOMAIN-SUFFIX,msstatic.com

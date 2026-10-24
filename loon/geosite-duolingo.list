@@ -1,0 +1,8 @@
+# NAME: geosite-duolingo
+# SOURCE: MetaCubeX/meta-rules-dat geosite/duolingo
+# TOTAL: 5
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,ads-api.duolingo.com
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com

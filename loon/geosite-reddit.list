@@ -1,0 +1,15 @@
+# NAME: geosite-reddit
+# SOURCE: MetaCubeX/meta-rules-dat geosite/reddit
+# TOTAL: 12
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditblog.com
+DOMAIN-SUFFIX,reddithelp.com
+DOMAIN-SUFFIX,redditinc.com
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditspace.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditstatus.com
+DOMAIN-SUFFIX,reddit.app.link
+DOMAIN-SUFFIX,reddit.map.fastly.net
