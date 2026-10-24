@@ -31,6 +31,7 @@ jobs:
             exit 0
           fi
           git commit -m "更新规则 $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
           git push
           # 刷新 jsDelivr 缓存，让 QX 尽快拿到新规则
           for f in rules/*.list; do
