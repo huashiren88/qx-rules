@@ -1,6 +1,6 @@
 # NAME: geosite-cn
 # SOURCE: MetaCubeX/meta-rules-dat geosite/cn
-# TOTAL: 110446
+# TOTAL: 110448
 host-suffix, alibaba, cn
 host-suffix, yun, cn
 host-suffix, xn--zfr164b, cn
@@ -53,8 +53,8 @@ host-suffix, citic, cn
 host-suffix, baidu, cn
 host-suffix, anquan, cn
 host-suffix, alipay, cn
-host-suffix, jspatch.com, cn
-host-suffix, hfray.com, cn
+host-suffix, jspcinc.com, cn
+host-suffix, formtalk.net, cn
 host-suffix, 027yx.com, cn
 host-suffix, 027zb.com, cn
 host-suffix, 027zikao.com, cn
@@ -6433,7 +6433,7 @@ host-suffix, 666666.host, cn
 host-suffix, 6666m.vip, cn
 host-suffix, 6666ppt.com, cn
 host-suffix, 6666sa.com, cn
-host-suffix, 6666xsw.com, cn
+host-suffix, jsxdyh.com, cn
 host-suffix, 6668dns.com, cn
 host-suffix, 6669832.com, cn
 host-suffix, 666bos.com, cn
@@ -28975,7 +28975,7 @@ host-suffix, dongguantoday.com, cn
 host-suffix, donghaidl.com, cn
 host-suffix, donghaifunds.com, cn
 host-suffix, donghaileasing.com, cn
-host-suffix, jsxdyh.com, cn
+host-suffix, donghaotest.com, cn
 host-suffix, donghetea.com, cn
 host-suffix, donghongzx.com, cn
 host-suffix, donghuangshanquan.com, cn
@@ -34326,7 +34326,7 @@ host-suffix, form-create.com, cn
 host-suffix, formeasy.cc, cn
 host-suffix, formingcn.com, cn
 host-suffix, formssi.com, cn
-host-suffix, formtalk.net, cn
+host-suffix, jsxdf.com, cn
 host-suffix, fornature.com, cn
 host-suffix, forrealbio.com, cn
 host-suffix, forrelaxing.com, cn
@@ -44441,7 +44441,7 @@ host-suffix, hfplg.com, cn
 host-suffix, hfpx.cc, cn
 host-suffix, hfqgmagnet.com, cn
 host-suffix, hfqinhang.com, cn
-host-suffix, jsxdf.com, cn
+host-suffix, hfray.com, cn
 host-suffix, hfrc.net, cn
 host-suffix, hfrcbc.com, cn
 host-suffix, hfrsggff.com, cn
@@ -55088,9 +55088,9 @@ host-suffix, jsomick.com, cn
 host-suffix, jsonin.com, cn
 host-suffix, jsososo.com, cn
 host-suffix, jspang.com, cn
-host-suffix, 0.zone, cn
+host-suffix, jspatch.com, cn
 host-suffix, jspcgjg.com, cn
-host-suffix, jspcinc.com, cn
+host-suffix, 0.zone, cn
 host-suffix, jspdg.com, cn
 host-suffix, jspeople.com, cn
 host-suffix, jspesz.com, cn
@@ -55249,9 +55249,9 @@ host-suffix, jswyw.com, cn
 host-suffix, jswzjt.com, cn
 host-suffix, jsxbxcl.com, cn
 host-suffix, jsxcra.com, cn
-host-suffix, snail.com, cn
+host-suffix, mweda.com, cn
 host-suffix, 027wcbyy.com, cn
-host-suffix, donghaotest.com, cn
+host-suffix, 6666xsw.com, cn
 host-suffix, jsxfedu.com, cn
 host-suffix, jsxggx.com, cn
 host-suffix, jsxgjt.com, cn
@@ -66267,7 +66267,7 @@ host-suffix, mwclg.com, cn
 host-suffix, mwcloudcdn.com, cn
 host-suffix, mwcloudcdn.info, cn
 host-suffix, mwcname.com, cn
-host-suffix, mweda.com, cn
+host-suffix, jsxcx.com, cn
 host-suffix, mwemp.com, cn
 host-suffix, mwjournalchina.com, cn
 host-suffix, mwkj.net, cn
@@ -82525,7 +82525,7 @@ host-suffix, smzjy.cc, cn
 host-suffix, smzy.com, cn
 host-suffix, sn180.com, cn
 host-suffix, snai.edu, cn
-host-suffix, jsxcx.com, cn
+host-suffix, snail.com, cn
 host-suffix, snail007.com, cn
 host-suffix, snailgame.net, cn
 host-suffix, snailovet.com, cn
@@ -85686,6 +85686,8 @@ host-suffix, sztxsz.com, cn
 host-suffix, szty56.com, cn
 host-suffix, sztz.org, cn
 host-suffix, sztzzs.com, cn
+host-suffix, szu.app, cn
+host-suffix, szu.moe, cn
 host-suffix, szuavia.org, cn
 host-suffix, szudad.com, cn
 host-suffix, szunionlab.com, cn

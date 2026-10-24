@@ -1,6 +1,6 @@
 # NAME: geosite-speedtest
 # SOURCE: MetaCubeX/meta-rules-dat geosite/speedtest
-# TOTAL: 13
+# TOTAL: 20
 host, www.speedtest.net.cdn.cloudflare.net, speedtest
 host-suffix, cdnst.net, speedtest
 host-suffix, cellmaps.com, speedtest
@@ -9,8 +9,15 @@ host-suffix, ekahau.com, speedtest
 host-suffix, ookla.com, speedtest
 host-suffix, ooklaserver.net, speedtest
 host-suffix, pingtest.net, speedtest
+host-suffix, speedtest.app, speedtest
+host-suffix, speedtest.cc, speedtest
 host-suffix, speedtest.co, speedtest
+host-suffix, speedtest.ee, speedtest
+host-suffix, speedtest.in, speedtest
+host-suffix, speedtest.me, speedtest
 host-suffix, speedtest.net, speedtest
+host-suffix, speedtest.ng, speedtest
+host-suffix, speedtest.tv, speedtest
 host-suffix, speedtestcustom.com, speedtest
 host-suffix, webtest.net, speedtest
 host-suffix, ookla-speedtest-central.hgconair.hgc.com.hk, speedtest
