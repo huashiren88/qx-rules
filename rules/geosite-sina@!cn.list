@@ -1,0 +1,10 @@
+# NAME: geosite-sina@!cn
+# SOURCE: MetaCubeX/meta-rules-dat geosite/sina@!cn
+# TOTAL: 7
+host-suffix, hk.weibo.com, sina@!cn
+host-suffix, my.weibo.com, sina@!cn
+host-suffix, overseas.weibo.com, sina@!cn
+host-suffix, sg.weibo.com, sina@!cn
+host-suffix, th.weibo.com, sina@!cn
+host-suffix, tw.weibo.com, sina@!cn
+host-suffix, us.weibo.com, sina@!cn

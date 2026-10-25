@@ -1,0 +1,7 @@
+# NAME: geosite-jd@!cn
+# SOURCE: MetaCubeX/meta-rules-dat geosite/jd@!cn
+# TOTAL: 4
+host-suffix, jd.co.th, jd@!cn
+host-suffix, jd.hk, jd@!cn
+host-suffix, jd.id, jd@!cn
+host-suffix, jd.ru, jd@!cn

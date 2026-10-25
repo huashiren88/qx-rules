@@ -1,0 +1,7 @@
+# NAME: geosite-bilibili@!cn
+# SOURCE: MetaCubeX/meta-rules-dat geosite/bilibili@!cn
+# TOTAL: 4
+host-suffix, bilibili.tv, bilibili@!cn
+host-suffix, biliintl.com, bilibili@!cn
+host-suffix, dreamcast.hk, bilibili@!cn
+host, upos-hz-mirrorakam.akamaized.net, bilibili@!cn

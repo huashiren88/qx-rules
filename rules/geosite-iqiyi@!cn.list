@@ -1,0 +1,4 @@
+# NAME: geosite-iqiyi@!cn
+# SOURCE: MetaCubeX/meta-rules-dat geosite/iqiyi@!cn
+# TOTAL: 1
+host-suffix, iq.com, iqiyi@!cn

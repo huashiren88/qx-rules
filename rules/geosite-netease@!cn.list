@@ -1,0 +1,4 @@
+# NAME: geosite-netease@!cn
+# SOURCE: MetaCubeX/meta-rules-dat geosite/netease@!cn
+# TOTAL: 1
+host-suffix, easebar.com, netease@!cn

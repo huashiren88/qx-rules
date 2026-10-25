@@ -1,0 +1,5 @@
+# NAME: geosite-xiaomi@!cn
+# SOURCE: MetaCubeX/meta-rules-dat geosite/xiaomi@!cn
+# TOTAL: 2
+host-suffix, c.mi.com, xiaomi@!cn
+host-suffix, global.market.xiaomi.com, xiaomi@!cn

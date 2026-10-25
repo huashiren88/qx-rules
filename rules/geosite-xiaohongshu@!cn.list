@@ -1,0 +1,6 @@
+# NAME: geosite-xiaohongshu@!cn
+# SOURCE: MetaCubeX/meta-rules-dat geosite/xiaohongshu@!cn
+# TOTAL: 3
+host-suffix, rednote.com, xiaohongshu@!cn
+host-suffix, rednote.com.my, xiaohongshu@!cn
+host-suffix, rednotecdn.com, xiaohongshu@!cn
