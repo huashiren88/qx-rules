@@ -1,0 +1,7 @@
+# NAME: geosite-bilibili@!cn
+# SOURCE: MetaCubeX/meta-rules-dat geosite/bilibili@!cn
+# TOTAL: 4
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliintl.com
+DOMAIN-SUFFIX,dreamcast.hk
+DOMAIN,upos-hz-mirrorakam.akamaized.net

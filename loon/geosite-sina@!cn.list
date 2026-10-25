@@ -1,0 +1,10 @@
+# NAME: geosite-sina@!cn
+# SOURCE: MetaCubeX/meta-rules-dat geosite/sina@!cn
+# TOTAL: 7
+DOMAIN-SUFFIX,hk.weibo.com
+DOMAIN-SUFFIX,my.weibo.com
+DOMAIN-SUFFIX,overseas.weibo.com
+DOMAIN-SUFFIX,sg.weibo.com
+DOMAIN-SUFFIX,th.weibo.com
+DOMAIN-SUFFIX,tw.weibo.com
+DOMAIN-SUFFIX,us.weibo.com

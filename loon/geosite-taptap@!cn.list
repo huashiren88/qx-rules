@@ -1,0 +1,4 @@
+# NAME: geosite-taptap@!cn
+# SOURCE: MetaCubeX/meta-rules-dat geosite/taptap@!cn
+# TOTAL: 1
+DOMAIN-SUFFIX,taptap.io

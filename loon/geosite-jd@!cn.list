@@ -1,0 +1,7 @@
+# NAME: geosite-jd@!cn
+# SOURCE: MetaCubeX/meta-rules-dat geosite/jd@!cn
+# TOTAL: 4
+DOMAIN-SUFFIX,jd.co.th
+DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,jd.id
+DOMAIN-SUFFIX,jd.ru
