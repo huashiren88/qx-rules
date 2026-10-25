@@ -21,6 +21,9 @@ GEOSITE = [
     "huya", "huawei", "xiaomi", "category-pt", "category-public-tracker", "cn",
     "reddit", "category-porn", "category-games", "category-ecommerce",
     "category-entertainment", "category-dev", "geolocation-!cn",
+    # 国内大厂的海外业务（@!cn 标签，2026-11-01 加）：放在各公司直连规则前走代理
+    "bilibili@!cn", "bytedance@!cn", "tencent@!cn", "alibaba@!cn", "huawei@!cn", "sina@!cn",
+    "jd@!cn", "xiaohongshu@!cn", "xiaomi@!cn", "netease@!cn", "taptap@!cn", "iqiyi@!cn",
 ]
 # (输出名, 源路径)
 GEOIP = [
