@@ -139,7 +139,6 @@ host-suffix, paypal.jp, paypal
 host-suffix, paypal.me, paypal
 host-suffix, paypal.so, paypal
 host-suffix, paypal.us, paypal
-host-suffix, paypalbeacon.com, paypal
 host-suffix, paypalbenefits.com, paypal
 host-suffix, paypalbrasil.com, paypal
 host-suffix, paypalcommunity.com, paypal
@@ -241,6 +240,7 @@ host-suffix, beibao.com.cn, paypal
 host-suffix, paypal.com.cn, paypal
 host-suffix, paypal.net.cn, paypal
 host-suffix, paypal.org.cn, paypal
+host-suffix, paypalbeacon.com, paypal
 host-suffix, paypalcommunity.cn, paypal
 host-suffix, paypalhere.cn, paypal
 host-suffix, paypalhere.com.cn, paypal

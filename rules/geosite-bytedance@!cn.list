@@ -9,13 +9,6 @@ host-suffix, ibyteimg.com, bytedance@!cn
 host, bytedance.map.fastly.net, bytedance@!cn
 host-suffix, capcut.com, bytedance@!cn
 host-suffix, capcutcdn-us.com, bytedance@!cn
-host-suffix, coze.com, bytedance@!cn
-host-suffix, marscode.com, bytedance@!cn
-host-suffix, trae.ai, bytedance@!cn
-host-suffix, cici.com, bytedance@!cn
-host-suffix, ciciai.com, bytedance@!cn
-host-suffix, ciciaicdn.com, bytedance@!cn
-host-suffix, dola.com, bytedance@!cn
 host-suffix, bytedapm.com, bytedance@!cn
 host-suffix, muscdn.com, bytedance@!cn
 host-suffix, musical.ly, bytedance@!cn
@@ -52,3 +45,10 @@ host, roovza-launches.appsflyersdk.com, bytedance@!cn
 host, roovza.inapps.appsflyersdk.com, bytedance@!cn
 host, roovza.launches.appsflyersdk.com, bytedance@!cn
 host, roovza.skadsdk.appsflyersdk.com, bytedance@!cn
+host-suffix, coze.com, bytedance@!cn
+host-suffix, marscode.com, bytedance@!cn
+host-suffix, trae.ai, bytedance@!cn
+host-suffix, cici.com, bytedance@!cn
+host-suffix, ciciai.com, bytedance@!cn
+host-suffix, ciciaicdn.com, bytedance@!cn
+host-suffix, dola.com, bytedance@!cn

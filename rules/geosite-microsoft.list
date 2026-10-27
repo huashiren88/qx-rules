@@ -1,6 +1,6 @@
 # NAME: geosite-microsoft
 # SOURCE: MetaCubeX/meta-rules-dat geosite/microsoft
-# TOTAL: 746
+# TOTAL: 753
 host, img-prod-cms-rt-microsoft-com.akamaized.net, microsoft
 host, img-s-msn-com.akamaized.net, microsoft
 host, mwf-service.akamaized.net, microsoft
@@ -72,8 +72,8 @@ host-suffix, azure, microsoft
 host-suffix, xbox, microsoft
 host-suffix, onedriveupdater, microsoft
 host-suffix, onedrive, microsoft
-host-suffix, microsoftnews.net, microsoft
-host-suffix, internetexplorer.com, microsoft
+host-suffix, microsoftnews.org, microsoft
+host-suffix, xbox.eu, microsoft
 host-suffix, microsoft.com, microsoft
 host-suffix, microsoft.cz, microsoft
 host-suffix, microsoft.de, microsoft
@@ -110,9 +110,6 @@ host-suffix, m12.vc, microsoft
 host-suffix, a-msedge.net, microsoft
 host-suffix, aka.ms, microsoft
 host-suffix, ankarazirvesi2018.com, microsoft
-host-suffix, applicationinsights.io, microsoft
-host-suffix, applicationinsights.net, microsoft
-host-suffix, aria.ms, microsoft
 host-suffix, asp.net, microsoft
 host-suffix, aspnetcdn.com, microsoft
 host-suffix, binads.com, microsoft
@@ -158,7 +155,7 @@ host-suffix, ie9.com, microsoft
 host-suffix, imaginecup.pl, microsoft
 host-suffix, ingads.com, microsoft
 host-suffix, internetexplorer.co, microsoft
-host-suffix, microsoftnewskids.com, microsoft
+host-suffix, internetexplorer.com, microsoft
 host-suffix, intunewiki.com, microsoft
 host-suffix, iotinactionevents.com, microsoft
 host-suffix, kidgrid.tv, microsoft
@@ -174,7 +171,7 @@ host-suffix, managedmeetingrooms.com, microsoft
 host-suffix, meetfasttrack.com, microsoft
 host-suffix, meetyourdevices.com, microsoft
 host-suffix, mepn.com, microsoft
-host-suffix, microsoftnewsforkids.org, microsoft
+host-suffix, microsoftedgeinsider.com, microsoft
 host-suffix, microsoft-falcon.io, microsoft
 host-suffix, microsoft-int.com, microsoft
 host-suffix, microsoft-ppe.com, microsoft
@@ -268,7 +265,7 @@ host-suffix, sharepointonline.com, microsoft
 host-suffix, signalr.net, microsoft
 host-suffix, skype.com, microsoft
 host-suffix, skype.net, microsoft
-host-suffix, skypeassets.com, microsoft
+host-suffix, microsoftnewskids.org, microsoft
 host-suffix, skypeassets.net, microsoft
 host-suffix, spo-msedge.net, microsoft
 host-suffix, staffhub.ms, microsoft
@@ -278,7 +275,7 @@ host-suffix, svc.ms, microsoft
 host-suffix, sway-cdn.com, microsoft
 host-suffix, sway.com, microsoft
 host-suffix, sysinternals.com, microsoft
-host-suffix, microsoftnewskids.net, microsoft
+host-suffix, t-msedge.net, microsoft
 host-suffix, tailwindtraders.com, microsoft
 host-suffix, techhub.ms, microsoft
 host-suffix, tfsallin.net, microsoft
@@ -310,14 +307,14 @@ host-suffix, microsoftnews.cc, microsoft
 host-suffix, xamarin.com, microsoft
 host-suffix, vscodeedu.com, microsoft
 host-suffix, microsoftnews.com, microsoft
+host-suffix, microsoftnews.net, microsoft
 host-suffix, microsoft.ch, microsoft
-host-suffix, microsoftnews.org, microsoft
 host-suffix, microsoftnewsforkids.com, microsoft
 host-suffix, microsoftnewsforkids.net, microsoft
-host-suffix, microsoftedgeinsider.com, microsoft
+host-suffix, microsoftnewsforkids.org, microsoft
+host-suffix, xboxservices.com, microsoft
 host-suffix, microsoft.cl, microsoft
-host-suffix, t-msedge.net, microsoft
-host-suffix, microsoftnewskids.org, microsoft
+host-suffix, skypeassets.com, microsoft
 host-suffix, msn.com, microsoft
 host-suffix, msnewskids.com, microsoft
 host-suffix, msnewskids.net, microsoft
@@ -347,7 +344,7 @@ host-suffix, renovacionxboxlive.com, microsoft
 host-suffix, tellmewhygame.com, microsoft
 host-suffix, xbox.co, microsoft
 host-suffix, xbox.com, microsoft
-host-suffix, xbox.eu, microsoft
+host-suffix, microsoftnewskids.net, microsoft
 host-suffix, xbox.org, microsoft
 host-suffix, xbox360.co, microsoft
 host-suffix, xbox360.com, microsoft
@@ -361,7 +358,7 @@ host-suffix, xboxone.co, microsoft
 host-suffix, xboxone.com, microsoft
 host-suffix, xboxone.eu, microsoft
 host-suffix, xboxplayanywhere.com, microsoft
-host-suffix, xboxservices.com, microsoft
+host-suffix, microsoftnewskids.com, microsoft
 host-suffix, xboxstudios.com, microsoft
 host-suffix, xbx.lv, microsoft
 host-suffix, beth.games, microsoft
@@ -547,6 +544,10 @@ host-suffix, visualstudio.co.uk, microsoft
 host-suffix, spoprod-a.akamaihd.net, microsoft
 host-suffix, skype-edf.akadns.net, microsoft
 host-suffix, microsoftstore.com.hk, microsoft
+host-suffix, applicationinsights.io, microsoft
+host-suffix, applicationinsights.net, microsoft
+host-suffix, aria.ms, microsoft
+host-suffix, data.microsoft.com, microsoft
 host-suffix, dynamics.cn, microsoft
 host-suffix, engkoo.com, microsoft
 host-suffix, lync.cn, microsoft
@@ -581,6 +582,7 @@ host-suffix, powerappsportals.cn, microsoft
 host-suffix, powerautomate.cn, microsoft
 host-suffix, powerbi.cn, microsoft
 host-suffix, sharepoint.cn, microsoft
+host-suffix, telemetry.microsoft.com, microsoft
 host-suffix, clarity.ms, microsoft
 host-suffix, microsoftads.com, microsoft
 host-suffix, msads.net, microsoft
@@ -680,6 +682,7 @@ host-suffix, chinacloudapi.cn, microsoft
 host-suffix, chinacloudapp.cn, microsoft
 host-suffix, chinacloudsites.cn, microsoft
 host-suffix, hdinsightservices.cn, microsoft
+host-suffix, in.applicationinsights.azure.com, microsoft
 host-suffix, management-azure-devices-provisioning.cn, microsoft
 host-suffix, management-azure-devices.cn, microsoft
 host-suffix, mcchcdn.com, microsoft
@@ -719,6 +722,8 @@ host-suffix, azchcdnp.com, microsoft
 host-suffix, azchcdnq.com, microsoft
 host-suffix, azchcdnr.com, microsoft
 host-suffix, azchcdns.com, microsoft
+host, dc.applicationinsights.azure.com, microsoft
+host, live.applicationinsights.azure.com, microsoft
 host-suffix, azure-dns.cn, microsoft
 host-suffix, azure-dns-1.cn, microsoft
 host-suffix, azure-dns-2.cn, microsoft
@@ -746,4 +751,6 @@ host, copilot-telemetry.githubusercontent.com, microsoft
 host-suffix, microsoftreactor.cn, microsoft
 host-suffix, microsoftreactor.com.cn, microsoft
 host-suffix, reactorms.com.cn, microsoft
+host, dc.services.visualstudio.com, microsoft
 host, download.visualstudio.microsoft.com, microsoft
+host, rt.services.visualstudio.com, microsoft

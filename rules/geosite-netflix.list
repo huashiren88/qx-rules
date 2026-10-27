@@ -1,7 +1,6 @@
 # NAME: geosite-netflix
 # SOURCE: MetaCubeX/meta-rules-dat geosite/netflix
 # TOTAL: 24
-host, netflix.com.edgesuite.net, netflix
 host-suffix, fast.com, netflix
 host-suffix, netflix.ca, netflix
 host-suffix, netflix.com, netflix
@@ -25,3 +24,4 @@ host-suffix, netflixdnstest7.com, netflix
 host-suffix, netflixdnstest8.com, netflix
 host-suffix, netflixdnstest9.com, netflix
 host-suffix, netflixdnstest10.com, netflix
+host-suffix, netflix.com.edgesuite.net, netflix
