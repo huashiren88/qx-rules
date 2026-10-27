@@ -1,14 +1,6 @@
 # NAME: geosite-mihoyo
 # SOURCE: MetaCubeX/meta-rules-dat geosite/mihoyo
 # TOTAL: 25
-DOMAIN-SUFFIX,genshinimpact.com
-DOMAIN-SUFFIX,honkaiimpact3.com
-DOMAIN-SUFFIX,honkaistarrail.com
-DOMAIN-SUFFIX,hoyo.link
-DOMAIN-SUFFIX,hoyolab.com
-DOMAIN-SUFFIX,hoyoverse.com
-DOMAIN-SUFFIX,n0vadesktop.com
-DOMAIN-SUFFIX,zenlesszonezero.com
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com
@@ -24,5 +16,13 @@ DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,themisweeps.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,juequling.com
-DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,genshinimpact.com
+DOMAIN-SUFFIX,honkaiimpact3.com
+DOMAIN-SUFFIX,honkaistarrail.com
+DOMAIN-SUFFIX,hoyo.link
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,zenlesszonezero.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
