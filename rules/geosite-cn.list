@@ -1,6 +1,6 @@
 # NAME: geosite-cn
 # SOURCE: MetaCubeX/meta-rules-dat geosite/cn
-# TOTAL: 110175
+# TOTAL: 110177
 host-suffix, alibaba, cn
 host-suffix, yun, cn
 host-suffix, xn--zfr164b, cn
@@ -53,8 +53,8 @@ host-suffix, citic, cn
 host-suffix, baidu, cn
 host-suffix, anquan, cn
 host-suffix, alipay, cn
-host-suffix, soliao.com, cn
-host-suffix, kbrightlaw.com, cn
+host-suffix, solepic.com, cn
+host-suffix, hangzhoueda.com, cn
 host-suffix, 028office.com, cn
 host-suffix, 028px.com, cn
 host-suffix, 028pxw.com, cn
@@ -384,7 +384,7 @@ host-suffix, 0708.com, cn
 host-suffix, 0712fang.com, cn
 host-suffix, 0714.com, cn
 host-suffix, 0714110.xin, cn
-host-suffix, 0715fc.com, cn
+host-suffix, jszhiping.com, cn
 host-suffix, 0715rc.com, cn
 host-suffix, 0715zp.com, cn
 host-suffix, 0716fw.com, cn
@@ -33488,6 +33488,7 @@ host-suffix, filfox.info, cn
 host-suffix, fillersmart.com, cn
 host-suffix, fillseo.com, cn
 host-suffix, film-yuelongchina.com, cn
+host-suffix, filmorigin.com, cn
 host-suffix, fily.fun, cn
 host-suffix, fim34s.com, cn
 host-suffix, fimmu.com, cn
@@ -42353,7 +42354,7 @@ host-suffix, hangyang.com, cn
 host-suffix, hangyecloud.com, cn
 host-suffix, hangzhiqiao.com, cn
 host-suffix, hangzhouboiler.com, cn
-host-suffix, hangzhoueda.com, cn
+host-suffix, jszhaobiao.com, cn
 host-suffix, hangzhouexpo.com, cn
 host-suffix, hangzhoufujikura.com, cn
 host-suffix, hangzhoujizhang.com, cn
@@ -55113,10 +55114,10 @@ host-suffix, jszca.com, cn
 host-suffix, jszcqy.com, cn
 host-suffix, jszdlssws.com, cn
 host-suffix, jszf.org, cn
-host-suffix, w0663.com, cn
+host-suffix, jszfy.com, cn
+host-suffix, zjdianying.com, cn
 host-suffix, 028ltzx.com, cn
-host-suffix, pinzhikeji.net, cn
-host-suffix, jszhiping.com, cn
+host-suffix, 0715fc.com, cn
 host-suffix, jszhjsjtgs.com, cn
 host-suffix, jszhongci.com, cn
 host-suffix, jszjcg.com, cn
@@ -56270,6 +56271,7 @@ host-suffix, kakamobi.com, cn
 host-suffix, kakappt.com, cn
 host-suffix, kakashuzi.net, cn
 host-suffix, kakatx.com, cn
+host-suffix, kakaxing.com, cn
 host-suffix, kakayuy.net, cn
 host-suffix, kaken-china.com, cn
 host-suffix, kaku-scdn.com, cn
@@ -56559,7 +56561,7 @@ host-suffix, kblin.com, cn
 host-suffix, kbmlifesci.com, cn
 host-suffix, kbn-zhejiang.com, cn
 host-suffix, kboth.com, cn
-host-suffix, jszg.org, cn
+host-suffix, kbrightlaw.com, cn
 host-suffix, kbscd.net, cn
 host-suffix, kbscloud.com, cn
 host-suffix, kbsml.com, cn
@@ -71542,7 +71544,7 @@ host-suffix, pinyinxiang.com, cn
 host-suffix, pinyuan.cc, cn
 host-suffix, pinyuew.com, cn
 host-suffix, pinzhi365.com, cn
-host-suffix, jszhaobiao.com, cn
+host-suffix, pinzhikeji.net, cn
 host-suffix, pinzs.com, cn
 host-suffix, pioneer-pharma.com, cn
 host-suffix, pioneer-pku.com, cn
@@ -82562,9 +82564,9 @@ host-suffix, solarzoom.com, cn
 host-suffix, solasmat.com, cn
 host-suffix, soldeazy.com, cn
 host-suffix, solelybio.com, cn
-host-suffix, solepic.com, cn
-host-suffix, soletower.com, cn
 host-suffix, 0.zone, cn
+host-suffix, soletower.com, cn
+host-suffix, soliao.com, cn
 host-suffix, solidifyk.com, cn
 host-suffix, solidigm-asdf.com, cn
 host-suffix, solidigm-nvme.com, cn
@@ -92204,7 +92206,7 @@ host-suffix, w.biz, cn
 host-suffix, w0028.cc, cn
 host-suffix, w032.com, cn
 host-suffix, w03voavpa5.com, cn
-host-suffix, jszfy.com, cn
+host-suffix, w0663.com, cn
 host-suffix, w0x9r0k2l1.com, cn
 host-suffix, w0y.com, cn
 host-suffix, w10a.com, cn
@@ -108196,7 +108198,7 @@ host-suffix, zjdetong.com, cn
 host-suffix, zjdfc.com, cn
 host-suffix, zjdg.com, cn
 host-suffix, zjdhky.com, cn
-host-suffix, zjdianying.com, cn
+host-suffix, jszg.org, cn
 host-suffix, zjdjc.com, cn
 host-suffix, zjdjqc.com, cn
 host-suffix, zjdjxh.com, cn
