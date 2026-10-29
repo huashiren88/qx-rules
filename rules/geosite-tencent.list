@@ -1,7 +1,7 @@
 # NAME: geosite-tencent
 # SOURCE: MetaCubeX/meta-rules-dat geosite/tencent
 # TOTAL: 683
-host-suffix, dnspod.mobi, tencent
+host-suffix, dnsapi.cn, tencent
 host-suffix, realcybertron.com, tencent
 host-suffix, acimg.cn, tencent
 host-suffix, apcdns.net, tencent
@@ -165,7 +165,7 @@ host-suffix, ispqcloud.com, tencent
 host-suffix, itopsdk.com, tencent
 host-suffix, my-imcloud.com, tencent
 host-suffix, my-qcloud.com, tencent
-host-suffix, dnspod.org, tencent
+host-suffix, discuz.org, tencent
 host-suffix, myelasticsearch.com, tencent
 host-suffix, tencentcloud-aiot.com, tencent
 host-suffix, onexmail.com, tencent
@@ -182,9 +182,9 @@ host-suffix, qcloudcdntest.cn, tencent
 host-suffix, qcloudclass.com, tencent
 host-suffix, qcloudcos.cn, tencent
 host-suffix, qcloudcos.com, tencent
-host-suffix, dnsv5.com, tencent
-host-suffix, dns.pub, tencent
-host-suffix, dnsv3.com, tencent
+host-suffix, discuz.net, tencent
+host-suffix, comsenz.com, tencent
+host-suffix, dnspod.org, tencent
 host-suffix, qclouder.com, tencent
 host-suffix, qcloudgme.com, tencent
 host-suffix, qcloudimg.com, tencent
@@ -223,7 +223,7 @@ host-suffix, tcdnos.com, tencent
 host-suffix, tcdnos.net, tencent
 host-suffix, tcdntip.com, tencent
 host-suffix, tcdnvod.com, tencent
-host-suffix, dnsapi.cn, tencent
+host-suffix, dnsv5.com, tencent
 host-suffix, tcloudbase.com, tencent
 host-suffix, tcloudbase.net, tencent
 host-suffix, tcloudbaseapp.com, tencent
@@ -247,7 +247,7 @@ host-suffix, tencentapps.com, tencent
 host-suffix, tencentbyod.com, tencent
 host-suffix, tencentcdb.cn, tencent
 host-suffix, tencentcdb.com, tencent
-host-suffix, doh.pub, tencent
+host-suffix, dns.pub, tencent
 host-suffix, tencentclb.cn, tencent
 host-suffix, spcdntipbak.com, tencent
 host-suffix, acctdns.net, tencent
@@ -261,7 +261,7 @@ host-suffix, tencentcloudsec.com, tencent
 host-suffix, tencentcloudses.com, tencent
 host-suffix, tencentcos.cn, tencent
 host-suffix, tencentcos.com, tencent
-host-suffix, dnsv2.com, tencent
+host-suffix, dnsv3.com, tencent
 host-suffix, tencentcs.cn, tencent
 host-suffix, tencentcs.com, tencent
 host-suffix, tencentdayu.com, tencent
@@ -286,7 +286,7 @@ host-suffix, testmeet.cn, tencent
 host-suffix, testwaf.com, tencent
 host-suffix, tgovcloud.com, tencent
 host-suffix, tidaas.com, tencent
-host-suffix, dot.pub, tencent
+host-suffix, doh.pub, tencent
 host-suffix, timmerse.com, tencent
 host-suffix, tlivecdn.com, tencent
 host-suffix, tlivemcdn.com, tencent
@@ -311,7 +311,7 @@ host-suffix, vxo7tu.com, tencent
 host-suffix, wework-studio.com, tencent
 host-suffix, xqymuy.com, tencent
 host-suffix, yufuid.com, tencent
-host-suffix, dnspod.com, tencent
+host-suffix, dnsv2.com, tencent
 host-suffix, yufuid.net, tencent
 host-suffix, yunjitele.com, tencent
 host-suffix, dnse0.cn, tencent
@@ -356,12 +356,12 @@ host-suffix, tdnsv12.net, tencent
 host-suffix, tdnsv13.net, tencent
 host-suffix, tdnsv14.net, tencent
 host-suffix, tdnsv15.net, tencent
+host-suffix, dnspod.mobi, tencent
+host-suffix, dot.pub, tencent
+host-suffix, dnspod.com, tencent
 host-suffix, dnspod.cn, tencent
 host-suffix, dnsv4.com, tencent
 host-suffix, dnspod.net, tencent
-host-suffix, discuz.org, tencent
-host-suffix, discuz.net, tencent
-host-suffix, comsenz.com, tencent
 host-suffix, rumt-zh.com, tencent
 host-suffix, tamaegis.com, tencent
 host-suffix, ym.run, tencent
@@ -529,10 +529,10 @@ host-suffix, soso.com.cn, tencent
 host-suffix, oracle-tencent.com.cn, tencent
 host-suffix, tencentclb.com.cn, tencent
 host-suffix, oracle-tencent.net.cn, tencent
+host-suffix, jrzk.net.cn, tencent
 host-suffix, ectencent.com.cn, tencent
 host-suffix, dnsv1.com.cn, tencent
 host-suffix, dnspod.com.cn, tencent
-host-suffix, jrzk.net.cn, tencent
 host-suffix, tdnsdl5.com.cn, tencent
 host-suffix, tdnsdl4.com.cn, tencent
 host-suffix, tdnsdl3.com.cn, tencent
