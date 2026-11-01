@@ -6,6 +6,7 @@ host-suffix, tencent.com.hk, tencent@!cn
 host-suffix, wetv.vip, tencent@!cn
 host-suffix, wetvinfo.com, tencent@!cn
 host, wetv.qq.com, tencent@!cn
+host-suffix, webnovel.com, tencent@!cn
 host-suffix, intltencentcos.com, tencent@!cn
 host-suffix, ap-hongkong.myqcloud.com, tencent@!cn
 host-suffix, ap-singapore.myqcloud.com, tencent@!cn
@@ -69,4 +70,3 @@ host-suffix, ca.file.myqcloud.com, tencent@!cn
 host-suffix, ger.file.myqcloud.com, tencent@!cn
 host-suffix, rumt-sg.com, tencent@!cn
 host-suffix, rumt-us.com, tencent@!cn
-host-suffix, webnovel.com, tencent@!cn
