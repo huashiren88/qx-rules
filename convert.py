@@ -24,6 +24,8 @@ GEOSITE = [
     # 国内大厂的海外业务（@!cn 标签，2026-11-01 加）：放在各公司直连规则前走代理
     "bilibili@!cn", "bytedance@!cn", "tencent@!cn", "alibaba@!cn", "huawei@!cn", "sina@!cn",
     "jd@!cn", "xiaohongshu@!cn", "xiaomi@!cn", "netease@!cn", "taptap@!cn", "iqiyi@!cn",
+    # Roblox 走 Steam 组（2026-11-03 加）
+    "roblox",
 ]
 # (输出名, 源路径)
 GEOIP = [
@@ -31,6 +33,7 @@ GEOIP = [
     ("twitter", "geo/geoip/twitter"), ("facebook", "geo/geoip/facebook"),
     ("google", "geo/geoip/google"), ("netflix", "geo/geoip/netflix"),
     ("apple", "geo-lite/geoip/apple"),
+    ("roblox", "asn/AS22697"),  # Roblox 游戏服务器网段（AS22697），2026-11-03 加
 ]
 
 
