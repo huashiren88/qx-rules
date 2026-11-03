@@ -1,6 +1,6 @@
 # NAME: geosite-bytedance
 # SOURCE: MetaCubeX/meta-rules-dat geosite/bytedance
-# TOTAL: 958
+# TOTAL: 961
 host, p3-novel.byteimg.com, bytedance
 host, p6-novel.byteimg.com, bytedance
 host, p1-juejin.byteimg.com, bytedance
@@ -13,7 +13,7 @@ host, p7-juejin.byteimg.com, bytedance
 host, p8-juejin.byteimg.com, bytedance
 host, p9-juejin.byteimg.com, bytedance
 host-suffix, larkoffice.com, bytedance
-host-suffix, ihuoshanstatic.com, bytedance
+host-suffix, volcenginepaas.com, bytedance
 host-suffix, activity-dy.com, bytedance
 host-suffix, activity01.com, bytedance
 host-suffix, activity02.com, bytedance
@@ -139,7 +139,7 @@ host-suffix, bytetraffic.net, bytedance
 host-suffix, bytetstatic.com, bytedance
 host-suffix, bytetstatic.net, bytedance
 host-suffix, byteurl.cn, bytedance
-host-suffix, larkofficeapp-boe.com, bytedance
+host-suffix, bytevalk.com, bytedance
 host-suffix, bytevcloudapi.com, bytedance
 host-suffix, bytevcloudvod.com, bytedance
 host-suffix, bytexservice.com, bytedance
@@ -150,6 +150,7 @@ host-suffix, cdndns2.com, bytedance
 host-suffix, doubo03.com, bytedance
 host-suffix, draftstatic.com, bytedance
 host-suffix, druid.vip, bytedance
+host-suffix, edge-byted.com, bytedance
 host-suffix, fedlearner.net, bytedance
 host-suffix, feelgood.cn, bytedance
 host-suffix, gcloudcache.com, bytedance
@@ -325,6 +326,7 @@ host-suffix, ppximg.com, bytedance
 host-suffix, ppxstatic.com, bytedance
 host-suffix, ppxvod.com, bytedance
 host-suffix, xiaoxiaapi.com, bytedance
+host-suffix, haimian.com, bytedance
 host-suffix, dailygn.com, bytedance
 host-suffix, nvsgames.cn, bytedance
 host-suffix, buydouke.com, bytedance
@@ -435,9 +437,9 @@ host-suffix, larkcloud.net, bytedance
 host-suffix, larkfn.com, bytedance
 host-suffix, larkmeetings.cn, bytedance
 host-suffix, larkmeetings.com, bytedance
-host-suffix, douyinliving.com, bytedance
+host-suffix, volcalb.com, bytedance
 host-suffix, 99uri.com, bytedance
-host-suffix, bytevalk.com, bytedance
+host-suffix, mchost.guru, bytedance
 host-suffix, larkofficeapp-pre.com, bytedance
 host-suffix, larkofficeapp.com, bytedance
 host-suffix, larkofficeboe.com, bytedance
@@ -460,7 +462,7 @@ host-suffix, mcbaas.work, bytedance
 host-suffix, mcdemo.show, bytedance
 host-suffix, open-douyin.com, bytedance
 host-suffix, lifexue.com, bytedance
-host-suffix, mchost.guru, bytedance
+host-suffix, larkofficeapp-boe.com, bytedance
 host-suffix, mcprev.cn, bytedance
 host-suffix, tcwqqdy.guru, bytedance
 host-suffix, trae.cn, bytedance
@@ -604,7 +606,7 @@ host-suffix, volc-dns.pub, bytedance
 host-suffix, volc-embed.com, bytedance
 host-suffix, volcadocean.com, bytedance
 host-suffix, volcadvc.com, bytedance
-host-suffix, volcalb.com, bytedance
+host-suffix, 99uri.cn, bytedance
 host-suffix, volcanoaisearchshare.com, bytedance
 host-suffix, qingfuwu.com, bytedance
 host-suffix, ai-kaleidoscope.com, bytedance
@@ -648,7 +650,7 @@ host-suffix, volcengineapi.cn, bytedance
 host-suffix, volcengineapi.com, bytedance
 host-suffix, volcenginedns.com, bytedance
 host-suffix, volcenginedns.net, bytedance
-host-suffix, volcenginepaas.com, bytedance
+host-suffix, thelarkcloud.com, bytedance
 host-suffix, volces-test.com, bytedance
 host-suffix, volces.cn, bytedance
 host-suffix, volces.com, bytedance
@@ -776,6 +778,7 @@ host-suffix, building.fun, bytedance
 host-suffix, instreet.com, bytedance
 host-suffix, doubao-dev.com, bytedance
 host-suffix, doubao.com, bytedance
+host-suffix, doubaoapps.com, bytedance
 host-suffix, doubaocdn.com, bytedance
 host-suffix, hi-butterfly.cn, bytedance
 host-suffix, maoxiangai.com, bytedance
@@ -803,7 +806,7 @@ host-suffix, douyinact.com, bytedance
 host-suffix, douyinact.net, bytedance
 host-suffix, douyincdn.com, bytedance
 host-suffix, douyinfe.com, bytedance
-host-suffix, 99uri.cn, bytedance
+host-suffix, douyinliving.com, bytedance
 host-suffix, douyinmusicpromotion.com, bytedance
 host-suffix, douyinpic.com, bytedance
 host-suffix, douyinstatic.com, bytedance
@@ -837,7 +840,7 @@ host-suffix, ieshuodong.net, bytedance
 host-suffix, ihst8.com, bytedance
 host-suffix, ihuoshanimg.com, bytedance
 host-suffix, ihuoshanlive.com, bytedance
-host-suffix, thelarkcloud.com, bytedance
+host-suffix, ihuoshanstatic.com, bytedance
 host-suffix, ihuoshanvod.com, bytedance
 host-suffix, kolbuyer.cn, bytedance
 host-suffix, nextvid.net, bytedance
@@ -951,7 +954,6 @@ host, roovza.inapps.appsflyersdk.com, bytedance
 host, roovza.launches.appsflyersdk.com, bytedance
 host, roovza.skadsdk.appsflyersdk.com, bytedance
 host-suffix, analytics.tiktok.com, bytedance
-host-suffix, volceapplog.com, bytedance
 host-suffix, coze.com, bytedance
 host-suffix, marscode.com, bytedance
 host-suffix, trae.ai, bytedance
@@ -959,3 +961,4 @@ host-suffix, cici.com, bytedance
 host-suffix, ciciai.com, bytedance
 host-suffix, ciciaicdn.com, bytedance
 host-suffix, dola.com, bytedance
+host-suffix, volceapplog.com, bytedance
