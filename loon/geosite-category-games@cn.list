@@ -1,6 +1,7 @@
 # NAME: geosite-category-games@cn
 # SOURCE: MetaCubeX/meta-rules-dat geosite/category-games@cn
 # TOTAL: 37
+DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN,gog.qtlglb.com
 DOMAIN-SUFFIX,steamserver.net
@@ -36,5 +37,4 @@ DOMAIN-SUFFIX,mariokart.com.cn
 DOMAIN-SUFFIX,supermariobros.com.cn
 DOMAIN-SUFFIX,leagueoflegends.cn
 DOMAIN-SUFFIX,lpl.com.cn
-DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,yostar.cn
