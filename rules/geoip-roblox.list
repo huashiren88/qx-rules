@@ -1,0 +1,9 @@
+# NAME: geoip-roblox
+# SOURCE: MetaCubeX/meta-rules-dat asn/AS22697
+# TOTAL: 6
+ip-cidr, 103.140.28.0/23, geoip-roblox, no-resolve
+ip-cidr, 128.116.0.0/17, geoip-roblox, no-resolve
+ip-cidr, 141.193.3.0/24, geoip-roblox, no-resolve
+ip-cidr, 205.201.62.0/24, geoip-roblox, no-resolve
+ip6-cidr, 2620:2b:e000::/48, geoip-roblox, no-resolve
+ip6-cidr, 2620:135:6000::/40, geoip-roblox, no-resolve
