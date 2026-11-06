@@ -12,6 +12,8 @@ host-suffix, alipaymo.com, alibaba@!cn
 host-suffix, tmall.hk, alibaba@!cn
 host-suffix, tmall.ru, alibaba@!cn
 host-suffix, fliggy.hk, alibaba@!cn
+host-suffix, youku.tv, alibaba@!cn
+host-suffix, youkuplay.com, alibaba@!cn
 host-suffix, alibabacloud.co.in, alibaba@!cn
 host-suffix, alibabacloud.com, alibaba@!cn
 host-suffix, alibabacloud.com.au, alibaba@!cn
@@ -37,5 +39,3 @@ host-suffix, oss-eu-west-1.aliyuncs.com, alibaba@!cn
 host-suffix, oss-me-east-1.aliyuncs.com, alibaba@!cn
 host-suffix, oss-us-east-1.aliyuncs.com, alibaba@!cn
 host-suffix, oss-us-west-1.aliyuncs.com, alibaba@!cn
-host-suffix, youku.tv, alibaba@!cn
-host-suffix, youkuplay.com, alibaba@!cn

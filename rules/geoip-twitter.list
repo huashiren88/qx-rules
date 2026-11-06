@@ -1,11 +1,12 @@
 # NAME: geoip-twitter
 # SOURCE: MetaCubeX/meta-rules-dat geo/geoip/twitter
-# TOTAL: 19
+# TOTAL: 20
 ip-cidr, 8.25.194.0/23, geoip-twitter, no-resolve
 ip-cidr, 8.25.196.0/23, geoip-twitter, no-resolve
 ip-cidr, 64.63.0.0/18, geoip-twitter, no-resolve
 ip-cidr, 69.12.56.0/21, geoip-twitter, no-resolve
 ip-cidr, 103.252.112.0/22, geoip-twitter, no-resolve
+ip-cidr, 104.244.41.0/24, geoip-twitter, no-resolve
 ip-cidr, 104.244.42.0/24, geoip-twitter, no-resolve
 ip-cidr, 104.244.44.0/22, geoip-twitter, no-resolve
 ip-cidr, 185.45.4.0/22, geoip-twitter, no-resolve
