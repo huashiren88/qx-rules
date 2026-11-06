@@ -58,10 +58,10 @@ host-suffix, octocaptcha.com, github
 host-suffix, opensource.guide, github
 host-suffix, repo.new, github
 host-suffix, thegithubshop.com, github
-host-suffix, githubcopilot.com, github
 host-suffix, npm.community, github
 host-suffix, npmjs.com, github
 host-suffix, npmjs.org, github
+host-suffix, githubcopilot.com, github
 host-suffix, cafe.github.com, github
 host-suffix, collector.github.com, github
 host, copilot-telemetry-service.githubusercontent.com, github

@@ -496,10 +496,10 @@ host-suffix, octocaptcha.com, microsoft
 host-suffix, opensource.guide, microsoft
 host-suffix, repo.new, microsoft
 host-suffix, thegithubshop.com, microsoft
-host-suffix, githubcopilot.com, microsoft
 host-suffix, npm.community, microsoft
 host-suffix, npmjs.com, microsoft
 host-suffix, npmjs.org, microsoft
+host-suffix, githubcopilot.com, microsoft
 host-suffix, adaptivecards.io, microsoft
 host-suffix, api-extractor.com, microsoft
 host-suffix, apisof.net, microsoft
