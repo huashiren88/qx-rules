@@ -362,12 +362,6 @@ host-suffix, xboxplayanywhere.com, microsoft
 host-suffix, xboxservices.com, microsoft
 host-suffix, xboxstudios.com, microsoft
 host-suffix, xbx.lv, microsoft
-host-suffix, callersbane.com, microsoft
-host-suffix, minecraft-services.net, microsoft
-host-suffix, minecraft.net, microsoft
-host-suffix, minecraftservices.com, microsoft
-host-suffix, minecraftshop.com, microsoft
-host-suffix, mojang.com, microsoft
 host-suffix, beth.games, microsoft
 host-suffix, bethesda.net, microsoft
 host-suffix, bethesdagamestudios.com, microsoft
@@ -378,6 +372,12 @@ host-suffix, forza.net, microsoft
 host-suffix, forzamotorsport.net, microsoft
 host-suffix, forzaracingchampionship.com, microsoft
 host-suffix, forzarc.com, microsoft
+host-suffix, callersbane.com, microsoft
+host-suffix, minecraft-services.net, microsoft
+host-suffix, minecraft.net, microsoft
+host-suffix, minecraftservices.com, microsoft
+host-suffix, minecraftshop.com, microsoft
+host-suffix, mojang.com, microsoft
 host-suffix, microsoft.be, microsoft
 host-suffix, aadrm.com, microsoft
 host-suffix, azure-api.net, microsoft
@@ -496,10 +496,10 @@ host-suffix, octocaptcha.com, microsoft
 host-suffix, opensource.guide, microsoft
 host-suffix, repo.new, microsoft
 host-suffix, thegithubshop.com, microsoft
+host-suffix, githubcopilot.com, microsoft
 host-suffix, npm.community, microsoft
 host-suffix, npmjs.com, microsoft
 host-suffix, npmjs.org, microsoft
-host-suffix, githubcopilot.com, microsoft
 host-suffix, adaptivecards.io, microsoft
 host-suffix, api-extractor.com, microsoft
 host-suffix, apisof.net, microsoft
