@@ -1,6 +1,6 @@
 # NAME: geosite-tencent@!cn
 # SOURCE: MetaCubeX/meta-rules-dat geosite/tencent@!cn
-# TOTAL: 69
+# TOTAL: 72
 DOMAIN-SUFFIX,tencent.co.id
 DOMAIN-SUFFIX,tencent.com.hk
 DOMAIN-SUFFIX,wetv.vip
@@ -69,4 +69,7 @@ DOMAIN-SUFFIX,ca.file.myqcloud.com
 DOMAIN-SUFFIX,ger.file.myqcloud.com
 DOMAIN-SUFFIX,rumt-sg.com
 DOMAIN-SUFFIX,rumt-us.com
+DOMAIN-SUFFIX,tencentgames.com
+DOMAIN-SUFFIX,levelinfinite.com
+DOMAIN-SUFFIX,nikke-en.com
 DOMAIN-SUFFIX,webnovel.com
