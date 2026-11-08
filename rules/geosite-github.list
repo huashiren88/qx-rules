@@ -1,6 +1,6 @@
 # NAME: geosite-github
 # SOURCE: MetaCubeX/meta-rules-dat geosite/github
-# TOTAL: 65
+# TOTAL: 66
 host, github-api.arkoselabs.com, github
 host, github-cloud.s3.amazonaws.com, github
 host, github-production-release-asset-2e65be.s3.amazonaws.com, github
@@ -30,6 +30,7 @@ host, productionresultssa18.blob.core.windows.net, github
 host, productionresultssa19.blob.core.windows.net, github
 host, copilot-proxy.githubusercontent.com, github
 host, copilot-workspace.githubnext.com, github
+host, production-copilot-host-westus.webpubsub.azure.com, github
 host, copilotprodattachments.blob.core.windows.net, github
 host-suffix, atom.io, github
 host-suffix, dependabot.com, github
