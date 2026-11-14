@@ -1,6 +1,6 @@
 # NAME: geosite-geolocation-!cn
 # SOURCE: MetaCubeX/meta-rules-dat geosite/geolocation-!cn
-# TOTAL: 27307
+# TOTAL: 27308
 host, 1password.drift.click, geolocation-!cn
 host, 3dns-1.adobe.com, geolocation-!cn
 host, 3dns-2.adobe.com, geolocation-!cn
@@ -843,8 +843,8 @@ host-suffix, aws, geolocation-!cn
 host-suffix, apple, geolocation-!cn
 host-suffix, android, geolocation-!cn
 host-suffix, amazon, geolocation-!cn
-host-suffix, jerkmatelive.org, geolocation-!cn
-host-suffix, pixlromatic.com, geolocation-!cn
+host-suffix, jerkmate.tv, geolocation-!cn
+host-suffix, spyrothedragon.com, geolocation-!cn
 host-suffix, 12diasderegalosdeitunes.hn, geolocation-!cn
 host-suffix, 12diasderegalosdeitunes.pe, geolocation-!cn
 host-suffix, 12joursdecadeauxdeitunes.com, geolocation-!cn
@@ -1164,6 +1164,7 @@ host-suffix, 51lieqi.com, geolocation-!cn
 host-suffix, 51luoben.com, geolocation-!cn
 host-suffix, 51luoli.info, geolocation-!cn
 host-suffix, 51mh.app, geolocation-!cn
+host-suffix, 51papaya.com, geolocation-!cn
 host-suffix, 51pincha.cc, geolocation-!cn
 host-suffix, 51tuqiang.com, geolocation-!cn
 host-suffix, 520aa.tv, geolocation-!cn
@@ -5280,7 +5281,7 @@ host-suffix, bravotube.tv, geolocation-!cn
 host-suffix, brawlstars.com, geolocation-!cn
 host-suffix, brawlstarsgame.com, geolocation-!cn
 host-suffix, brazilpartneruniversity.com, geolocation-!cn
-host-suffix, brazz.org, geolocation-!cn
+host-suffix, jiji.com, geolocation-!cn
 host-suffix, brazzer.com, geolocation-!cn
 host-suffix, brazzers-porno.online, geolocation-!cn
 host-suffix, brazzers-xxx.net, geolocation-!cn
@@ -9018,7 +9019,7 @@ host-suffix, extremetube.com, geolocation-!cn
 host-suffix, exxxtra.net, geolocation-!cn
 host-suffix, exxxtrasmall.com, geolocation-!cn
 host-suffix, exxxtrasmall1.com, geolocation-!cn
-host-suffix, eyevio.jp, geolocation-!cn
+host-suffix, jifangge.com, geolocation-!cn
 host-suffix, eyny.com, geolocation-!cn
 host-suffix, f-dro1d.org, geolocation-!cn
 host-suffix, f-droid.com, geolocation-!cn
@@ -14039,8 +14040,8 @@ host-suffix, jerk24.com, geolocation-!cn
 host-suffix, jerkdolls.com, geolocation-!cn
 host-suffix, jerkdude.com, geolocation-!cn
 host-suffix, jerkmate.com, geolocation-!cn
-host-suffix, jerkmate.tv, geolocation-!cn
 host-suffix, 000webhost.com, geolocation-!cn
+host-suffix, jerkmatelive.org, geolocation-!cn
 host-suffix, jerkofftocelebs.com, geolocation-!cn
 host-suffix, xboxgamepass.com, geolocation-!cn
 host-suffix, jessicaturner.com, geolocation-!cn
@@ -14074,10 +14075,10 @@ host-suffix, jiayoulu.com, geolocation-!cn
 host-suffix, jibemobile.com, geolocation-!cn
 host-suffix, xbox360.org, geolocation-!cn
 host-suffix, jieav.com, geolocation-!cn
-host-suffix, jifangge.com, geolocation-!cn
-host-suffix, naverncp.com, geolocation-!cn
+host-suffix, eyevio.jp, geolocation-!cn
 host-suffix, 12diasderegalosdeitunes.gt, geolocation-!cn
-host-suffix, vpnmentor.com, geolocation-!cn
+host-suffix, brazz.org, geolocation-!cn
+host-suffix, jijiji.ca, geolocation-!cn
 host-suffix, jilhub.com, geolocation-!cn
 host-suffix, jimeng22.com, geolocation-!cn
 host-suffix, jims.net, geolocation-!cn
@@ -17146,7 +17147,7 @@ host-suffix, navercloudcorp.com, geolocation-!cn
 host-suffix, navercorp.com, geolocation-!cn
 host-suffix, naverfincorp.com, geolocation-!cn
 host-suffix, naverlabs.com, geolocation-!cn
-host-suffix, jihadology.net, geolocation-!cn
+host-suffix, naverncp.com, geolocation-!cn
 host-suffix, navisworks.com, geolocation-!cn
 host-suffix, navisworks.net, geolocation-!cn
 host-suffix, windows.com, geolocation-!cn
@@ -19101,7 +19102,7 @@ host-suffix, pixiv.org, geolocation-!cn
 host-suffix, pixivision.net, geolocation-!cn
 host-suffix, pixivsketch.net, geolocation-!cn
 host-suffix, pixlr-o-matic.com, geolocation-!cn
-host-suffix, jiji.com, geolocation-!cn
+host-suffix, pixlromatic.com, geolocation-!cn
 host-suffix, pixnet.cc, geolocation-!cn
 host-suffix, pixnet.net, geolocation-!cn
 host-suffix, pixnet.pro, geolocation-!cn
@@ -22107,7 +22108,7 @@ host-suffix, sputnikmediabank.com, geolocation-!cn
 host-suffix, sputniknews.com, geolocation-!cn
 host-suffix, spvb.ru, geolocation-!cn
 host-suffix, spyjinx.com, geolocation-!cn
-host-suffix, spyrothedragon.com, geolocation-!cn
+host-suffix, jihadology.net, geolocation-!cn
 host-suffix, sqlite.org, geolocation-!cn
 host-suffix, sqlserveronlinux.com, geolocation-!cn
 host-suffix, sqool.net, geolocation-!cn
@@ -23342,7 +23343,7 @@ host-suffix, tkcs-collins.com, geolocation-!cn
 host-suffix, tksex.com, geolocation-!cn
 host-suffix, tktube.com, geolocation-!cn
 host-suffix, tl.gd, geolocation-!cn
-host-suffix, jijiji.ca, geolocation-!cn
+host-suffix, vpnmentor.com, geolocation-!cn
 host-suffix, tmagazine.com, geolocation-!cn
 host-suffix, tmdb.org, geolocation-!cn
 host-suffix, tmei-taoyuan.com, geolocation-!cn
