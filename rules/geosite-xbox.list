@@ -26,12 +26,6 @@ host-suffix, xboxplayanywhere.com, xbox
 host-suffix, xboxservices.com, xbox
 host-suffix, xboxstudios.com, xbox
 host-suffix, xbx.lv, xbox
-host-suffix, beth.games, xbox
-host-suffix, bethesda.net, xbox
-host-suffix, bethesdagamestudios.com, xbox
-host-suffix, bethsoft.com, xbox
-host-suffix, doom.com, xbox
-host-suffix, elderscrolls.com, xbox
 host-suffix, forza.net, xbox
 host-suffix, forzamotorsport.net, xbox
 host-suffix, forzaracingchampionship.com, xbox
@@ -42,4 +36,10 @@ host-suffix, minecraft.net, xbox
 host-suffix, minecraftservices.com, xbox
 host-suffix, minecraftshop.com, xbox
 host-suffix, mojang.com, xbox
+host-suffix, beth.games, xbox
+host-suffix, bethesda.net, xbox
+host-suffix, bethesdagamestudios.com, xbox
+host-suffix, bethsoft.com, xbox
+host-suffix, doom.com, xbox
+host-suffix, elderscrolls.com, xbox
 host-suffix, xboxlive.cn, xbox
