@@ -25,6 +25,11 @@ host-suffix, yamaxun.cn, amazon@cn
 host-suffix, z.cn, amazon@cn
 host, images-cn.ssl-images-amazon.com, amazon@cn
 host, images-cn-8.ssl-images-amazon.com, amazon@cn
+host-suffix, kindle.cn, amazon@cn
+host-suffix, kindleoasis.cn, amazon@cn
+host-suffix, kindleoasis.com.cn, amazon@cn
+host-suffix, amazonprimevideo.cn, amazon@cn
+host-suffix, amazonprimevideo.com.cn, amazon@cn
 host-suffix, a2z.org.cn, amazon@cn
 host-suffix, amazonaws.cn, amazon@cn
 host-suffix, amazonaws.com.cn, amazon@cn
@@ -51,8 +56,3 @@ host-suffix, amzndns-cn.biz, amazon@cn
 host-suffix, amzndns-cn.cn, amazon@cn
 host-suffix, amzndns-cn.com, amazon@cn
 host-suffix, amzndns-cn.net, amazon@cn
-host-suffix, kindle.cn, amazon@cn
-host-suffix, kindleoasis.cn, amazon@cn
-host-suffix, kindleoasis.com.cn, amazon@cn
-host-suffix, amazonprimevideo.cn, amazon@cn
-host-suffix, amazonprimevideo.com.cn, amazon@cn
